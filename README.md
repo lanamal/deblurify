@@ -12,6 +12,7 @@ This project was developed as part of the **Artificial Intelligence** course at 
 ### 1. Clone the repository
 
 git clone https://github.com/lanamal/deblury.git
+
 cd deblury
 
 ### 2. Install dependencies
