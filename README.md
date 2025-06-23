@@ -40,9 +40,9 @@ The model is based on a **convolutional autoencoder** architecture, and optional
 
 The model successfully restores unblurred images with an accuracy of about *80%*.
 
-| Blurred Image         | Deblurred Output        |
-| --------------------- | ---------------------- |
-| ![Blurred](temp/104_IPHONE-SE_F.jpg)        | ![Deblurred](temp/deblurred.png)          |
+ Blurred Image         | Deblurred Output        
+ --------------------- | ---------------------- 
+ ![Blurred](temp/104_IPHONE-SE_F.jpg)        | ![Deblurred](temp/deblurred.png)          
 
 
 ## Web Application
