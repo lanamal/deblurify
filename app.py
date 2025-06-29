@@ -19,7 +19,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -- API URL
-API_URL = "https://de10-34-124-231-121.ngrok-free.app/deblur"  # Zamijeni ako treba
+API_URL = "https://5244-34-82-188-10.ngrok-free.app/deblur"  
 
 # -- Title and subtitle
 st.markdown("<h1 style='text-align: center;'>Welcome to our app!</h1>", unsafe_allow_html=True)
@@ -127,7 +127,7 @@ if st.session_state.gallery:
     st.markdown("---")
     st.markdown("## Previous results")
 
-    num_cols = 3  # broj kolona u jednom redu
+    num_cols = 3  
     rows = (len(st.session_state.gallery) + num_cols - 1) // num_cols
 
     for row in range(rows):
