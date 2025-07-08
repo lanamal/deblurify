@@ -3,6 +3,8 @@
 
 This project was developed as part of the **Artificial Intelligence** course at the Faculty of Electrical Engineering, University of Sarajevo (academic year 2024/2025).
 
+Link to our presentation:
+https://www.canva.com/design/DAGrKQyIMfU/bxA37TJveEd22AQSkBk0Rw/edit?utm_content=DAGrKQyIMfU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Project Description
 
